@@ -52,9 +52,10 @@ https://clueless-seahorse-42200.netlify.app/clone.html
 
 ## Future Enhancements
 
-- Add backend support with Firebase/Auth0 for real user authentication  
-- Add a video streaming feature for complete functionality  
-- Build a personalized recommendation engine  
+- Can add backend support with Firebase/Auth0 for real user authentication  
+- Can add a video streaming feature for complete functionality  
+- Can build a personalized recommendation engine  
+  ( I didn't have time to add these features)
 
 
 ---
