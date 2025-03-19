@@ -24,8 +24,8 @@ The Netflix Clone is a dynamic, fully responsive streaming platform inspired by 
 - Search functionality to find your favorite content instantly
 
  **Fully Responsive**  
--Mobile-friendly and optimized across devices
--Flexbox and Media Queries for seamless adaptation
+- Mobile-friendly and optimized across devices
+- Flexbox and Media Queries for seamless adaptation
 
 ---
 
