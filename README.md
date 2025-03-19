@@ -14,7 +14,7 @@ The Netflix Clone is a dynamic, fully responsive streaming platform inspired by 
 
  **Modern UI/UX**  
 - Clean, dark-themed Netflix-inspired design  
-- Responsive layout compatible with desktops, tablets  
+- Responsive layout compatible with desktops, tablets and mobile devices
 - Smooth hover effects and animations
 
 **Dynamic Movie and TV Show Listings**  
@@ -24,8 +24,8 @@ The Netflix Clone is a dynamic, fully responsive streaming platform inspired by 
 - Search functionality to find your favorite content instantly
 
  **Fully Responsive**  
-- Flexbox and Media Queries for seamless adaptation  
-- Optimized across all kinds of browsers
+-Mobile-friendly and optimized across devices
+-Flexbox and Media Queries for seamless adaptation
 
 ---
 
@@ -46,7 +46,7 @@ The Netflix Clone is a dynamic, fully responsive streaming platform inspired by 
    ```
 
 2. Open the `clone.html` file in your preferred browser  
-C:/Users/KIIT0001/Netflix-clone/clone.html
+https://clueless-seahorse-42200.netlify.app/clone.html
 
 ---
 
