@@ -43,18 +43,18 @@ https://clueless-seahorse-42200.netlify.app/clone.html
    ```bash
    git clone https://github.com/Deban-H/Netflix-Clone.git
    ```
-
+or,
 2. Open the `clone.html` file in your preferred browser  
 https://clueless-seahorse-42200.netlify.app/clone.html
 
 ---
 
-## Future Enhancements
+## Future Enhancements (only a blueprint for now)
 
 - Can add backend support with Firebase/Auth0 for real user authentication  
 - Can add a video streaming feature for complete functionality  
 - Can build a personalized recommendation engine  
-  ( I didn't have time to add these features)
+  (These features are part of the future development roadmap and have not yet been implemented due to time constraints.)
 
 
 ---
