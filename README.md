@@ -55,7 +55,7 @@ https://clueless-seahorse-42200.netlify.app/clone.html
 - Add backend support with Firebase/Auth0 for real user authentication  
 - Add a video streaming feature for complete functionality  
 - Build a personalized recommendation engine  
-- Deploy on platforms like Vercel/Netlify for wider access
+
 
 ---
 
